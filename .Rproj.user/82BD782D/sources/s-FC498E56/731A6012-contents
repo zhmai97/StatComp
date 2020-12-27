@@ -1,0 +1,12 @@
+---
+title: "Introduction to StatComp"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to StatComp}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+## Introduction
+
+There will show the homework of Statistic Computing below
