@@ -12,3 +12,9 @@ vignette: >
 There will show the homework of Statistic Computing below
 
 ## Homework 1
+
+Question 1 :
+```{r}
+library(StatComp20061)
+question1a(1000)
+```
